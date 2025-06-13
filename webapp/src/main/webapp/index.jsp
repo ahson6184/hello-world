@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1> User Registration for DevOpsSec Learning</h1>
-    <p>Please fill out this following form to create an account.</p>
+    <p>Please fill out the form to create an user account.</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
