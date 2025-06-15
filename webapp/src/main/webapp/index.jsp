@@ -1,22 +1,22 @@
 <form action="action_page.php">
   <div class="container">
-    <h1> User Registration for DevOpsSec Learning</h1>
-    <p>Please fill out the form to create an user account.</p>
+    <h1> User Registration for DevOps Learning</h1>
+    <p>Please fill out the form to create your user account.</p>
     <hr>
      
-    <label for="Name"><b>Enter Your Full Name</b></label>
+    <label for="Name"><b>Enter Full Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
-    <label for="mobile"><b>Enter Your Telefon number</b></label>
+    <label for="mobile"><b>Enter Telefon number</b></label>
     <input type="text" placeholder="Enter mobile number" name="mobile" id="mobile" required>
     <br>
 
-    <label for="email"><b>Enter Your Email</b></label>
+    <label for="email"><b>Enter Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
 
-    <label for="psw"><b>Password</b></label>
+    <label for="psw"><b>Enter Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
 
@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thank you, Keep Learning </h1>
+   <h1> Thank you, Happy Learning </h1>
 
   
 </form>
